@@ -1,7 +1,7 @@
 name: organix
 favicon: null
-layout_spectrum: 0.9000709119718522
-typography_spectrum: 0.2895259438082576
+layout_spectrum: 0.20375
+typography_spectrum: 0.28953
 cta:
   domain: null
   bucket: null
