@@ -5,13 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: >-
-  ORGANIX is Organik Politix offering a revolutionary vision for a social system
-  that will eliminate poverty, remove the influence of money from politics,
-  dramatically diminish wealth inequality, provide for social and economic
-  justice, establish and maintain citizen controlled government among other
-  essentials for sustaining an optimal social body.
-datePublished: '2016-08-19T05:56:02.774Z'
-dateModified: '2016-08-19T05:54:48.438Z'
+  A society, a social system, requires universal recognition of its fundamental
+  properties in order to generate and sustain a necessary coherence. If everyone
+  in a given society does not have an organic sense of belonging to the same
+  society as everyone else then that society is a failure. That does not mean
+  that everyone must be the same or totally equal in every way. It means that
+  inequalities would not be so extreme.
+datePublished: '2016-08-19T05:56:28.735Z'
+dateModified: '2016-08-19T05:56:27.888Z'
 title: ''
 author: []
 sourcePath: >-
@@ -24,4 +25,4 @@ url: organix-is-organik-politix-offering-a-revolutionary-vision-f/index.html
 _type: Article
 
 ---
-ORGANIX is Organik Politix offering a revolutionary vision for a social system that will eliminate poverty, remove the influence of money from politics, dramatically diminish wealth inequality, provide for social and economic justice, establish and maintain citizen controlled government among other essentials for sustaining an optimal social body.
+A society, a social system, requires universal recognition of its fundamental properties in order to generate and sustain a necessary coherence. If everyone in a given society does not have an organic sense of belonging to the same society as everyone else then that society is a failure. That does not mean that everyone must be the same or totally equal in every way. It means that inequalities would not be so extreme.
