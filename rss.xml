@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ORGANIK POLITIX]]></title>
+        <description><![CDATA[ORGANIK POLITIX]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Aug 2016 06:06:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>A society, a social system, requires universal recognition of its fundamental properties in order to generate and sustain a necessary coherence. If everyone in a given society does not have an organic sense of belonging to the same society as everyone else then that society is a failure. That does not mean that everyone must be the same or totally equal in every way. It means that inequalities would not be so extreme.</p>]]></description>
+            <link>undefineda-society-a-social-system-requires-universal-recognition-o/index.html</link>
+            <guid isPermaLink="false">4af0617b-14c5-4204-a3fd-9a3df89cf655</guid>
+            <pubDate>Fri, 19 Aug 2016 06:06:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
