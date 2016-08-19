@@ -10,15 +10,15 @@ description: >-
   dramatically diminish wealth inequality, provide for social and economic
   justice, establish and maintain citizen controlled government among other
   essentials for sustaining an optimal social body.
-datePublished: '2016-08-19T05:54:41.390Z'
-dateModified: '2016-08-19T05:51:13.558Z'
+datePublished: '2016-08-19T05:56:02.774Z'
+dateModified: '2016-08-19T05:54:48.438Z'
 title: ''
 author: []
 sourcePath: >-
   _posts/2016-05-14-organix-is-organik-politix-offering-a-revolutionary-vision-f.md
+via: {}
 authors: []
 publisher: {}
-via: {}
 starred: true
 url: organix-is-organik-politix-offering-a-revolutionary-vision-f/index.html
 _type: Article
